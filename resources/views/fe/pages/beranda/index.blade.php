@@ -13,8 +13,8 @@
             <ul class="navbar-nav flex-row align-items-center justify-content-between">
                 <li class="nav-item">
                     <a class="nav-link " href="{{ route('fe.beranda') }}">
-                        <img src="{{ asset('assets/be/images/logos/logo.svg') }}" alt="logo" />
-                        {{-- <h3 class="fw-bold">Rentify</h3> --}}
+                        {{-- <img src="{{ asset('assets/be/images/logos/logo.svg') }}" alt="logo" /> --}}
+                        <h3 class="fw-bolder text-primary">Rentify</h3>
                     </a>
                 </li>
                 <li class="nav-item">
